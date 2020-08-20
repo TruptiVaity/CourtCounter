@@ -1,6 +1,6 @@
 # CourtCounter
 
-This repository contains code for the CourtCounter project in the Udacity course. 
+This repository contains code for the CourtCounter project which is a part of the Udacity course. 
 
 ## Overview
 
